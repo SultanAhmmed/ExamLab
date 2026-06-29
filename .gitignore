@@ -1,0 +1,13 @@
+# .gitignore
+.idea/
+.vscode/
+*.log
+*.sqlite
+*.sqlite-journal
+.DS_Store
+Thumbs.db
+/vendor/
+/composer.lock
+/.env
+*.cache
+*.tmp
